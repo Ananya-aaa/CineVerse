@@ -87,11 +87,11 @@ Installation
 
 5. Open the local URL displayed in your terminal.
 
-🎞️ Data
+Data
 
 CineVerse currently uses a local JavaScript dataset ("movies.js") to provide movie and TV-series information. The application does not require a live movie API to display its current dataset.
 
-📚 What I Learned
+What I Learned
 
 Building CineVerse helped me practice:
 
@@ -104,7 +104,7 @@ Building CineVerse helped me practice:
 - Building responsive user interfaces
 - Organizing a React project into components, pages, and data modules
 
-🔮 Future Improvements
+Future Improvements
 
 - Integrate a live movie and TV-series API
 - Expand the movie and series catalogue
@@ -112,7 +112,7 @@ Building CineVerse helped me practice:
 - Add richer movie recommendations
 - Enhance accessibility and user experience
 
-👩‍💻 Author
+Author
 
 Built as a personal project to strengthen my React and front-end development skills.
 
