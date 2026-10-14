@@ -24,25 +24,25 @@ Tech Stack
 Screenshots
 
 - Homepage
-![CineVerse Homepage] (screenshots/homepage.png)
+![CineVerse Homepage](screenshots/homepage.png)
 
 - Movie details
-![Movie Details] (screenshots/details.png)
+![Movie Details](screenshots/details.png)
 
 - My List
-![My List] (screenshots/my-list.png)
+![My List](screenshots/my-list.png)
 
 - Moviespage
-![Movies Page] (screenshots/movies.png)
+![Movies Page](screenshots/movies.png)
 
 - Trending Section
-![Trending Section] (screenshots/trending.png)
+![Trending Section](screenshots/trending.png)
 
 - TV Shows Page
-![TV Shows Page] (screenshots/tv-shows.png)
+![TV Shows Page](screenshots/tv-shows.png)
 
 - Mobile View
-![Mobile View] (screenshots/mobile.png)
+![Mobile View](screenshots/mobile.png)
 
 Project Structure
 
